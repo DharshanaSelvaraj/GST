@@ -46,7 +46,7 @@
         }
     </style>
     <body>
-        <div class="image">RK Groceries<br> <div class ="gety">Get your disired</div></div>
+        <div class="image">V-Groceries<br> <div class ="gety">Get your disired</div></div>
         <form action="edit">
             <input class ="add "type="submit"  value="Edit Product"><br></form>
         <form action="gen">
